@@ -1,6 +1,6 @@
 - 👋 Hi there! I'm Chamarthi Tejeswar Raju
-- 🎮 Aspiring Game Developer | 💻 Learning HTML, CSS & Python
-
+- 🎮 Aspiring Game Developer 
+- I have skills of HTML,css,javascript,react,python,c,c++,java
 - 🌱 Currently exploring the world of game development and building strong foundations in web technologies and Python.
 - 🚀 Passionate about creating interactive, fun, and engaging digital experiences.
 
