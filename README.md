@@ -6,7 +6,5 @@
 
 - 💬 Always open to learning, collaborating, and sharing ideas.
 - 📫 Let's connect:
-
-  📱 WhatsApp/Text: +91 9392731998
-
-  📸 Instagram: @tejeswar.raju357
+    Mail :- tejeswar.raju357@gmail.com
+  
